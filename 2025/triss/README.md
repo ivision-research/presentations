@@ -1,0 +1,7 @@
+# Teaching a New Dog Old Tricks: Surveying FIDO2/WebAuthn Deployments
+
+[Teaching a New Dog Old Tricks: Surveying FIDO2/WebAuthn Deployments](https://www.threeriversinfosec.com/presentations-2025) was presented by Geoff Robinson at the Three Rivers Security Symposium in Pittsburgh, PA on October 29, 2025.
+
+A complete audio recording of the presentation is saved within the powerpoint file. Just click "Slide Show --> Play from Start".
+
+> WebAuthn and Passkeys - elements of the FIDO2 passwordless authentication scheme -- continue to become more commonplace now that they are supported by all of the major browsers. This new dog promises to be "more secure" by avoiding the pitfalls of passwords, but the huge variety of WebAuthn server implementations are relatively untested. And we know that even if the protocol is bulletproof, a given deployment can be anything but. As pen testers, what tricks can we still use to spoof authentication or elevate privileges? In this talk, Geoff will review the details of the FIDO2 protocol, with a focus on WebAuthn and Passkeys. He will discuss his working threat model based on insights from several years of testing real-world deployments with clients. Finally, Geoff will review his efforts to systematically document FIDO2 deployments in the wild and fingerprint their underlying implementations. This is the first part of a larger research project to identify the key gotchas implementing production FIDO2 authentication systems at scale.
